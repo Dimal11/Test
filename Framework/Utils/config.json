@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "size": "maximize",
+  "waiting_time": 10,
+  "url": "https://demoqa.com/"
+}
